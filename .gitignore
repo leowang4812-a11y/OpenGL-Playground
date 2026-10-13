@@ -1,4 +1,5 @@
 assets/heightmaps
 assets/objects
 assets/textures
-.DS_Store
+.DS_Store*.gch
+*.gch
