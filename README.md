@@ -5,4 +5,6 @@ A playground project with a lot of random features. Began from the learnOpenGL t
   lighting,
   some random post processing filters (one that mimics a buckshot roulette filter)
   some free 3D assets + assimp. 
+
+![demo](images/image.png)
   
